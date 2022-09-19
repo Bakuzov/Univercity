@@ -1,0 +1,11 @@
+.p {
+  padding: 20px;
+}
+.div {
+  display: flex;
+  padding: 10px;
+  background-color: rgb(221, 244, 254);
+}
+.span {
+  display: block;
+}
